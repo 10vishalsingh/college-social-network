@@ -1,2 +1,2 @@
 # college-social-network
-An interactive college social networking site
+An interactive college social networking site.
